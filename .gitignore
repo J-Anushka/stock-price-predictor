@@ -5,7 +5,6 @@ __pycache__/
 *.pyd
 *.env
 venv/
-*.sqlite3
 
 # Django
 *.log
@@ -19,3 +18,4 @@ media/
 # OS
 .DS_Store
 Thumbs.db
+
